@@ -12,7 +12,7 @@ ProChat is the public home of tools created and maintained by
 A local-first system for preserving recurring test failures, CI evidence,
 investigation history, causes, fixes and ruled-out hypotheses.
 
-### ProChat Workbench
+### Mastermind
 
 A review-first local workbench for safely applying AI-assisted workflows to
 repositories, documentation and project folders.
