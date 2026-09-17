@@ -1,25 +1,34 @@
 # ProChat
 
-Open-source tools for safer, more structured AI-assisted software development and QA.
+ProChat builds local-first AI tools for memory, context, and controlled execution.
 
-ProChat is the public home of tools created and maintained by
-[Steve Westhoek](https://github.com/stevewesthoek).
+[Visit prochat.tools](https://prochat.tools)
 
-## Projects
+## Product family
 
-### ProChat Memory for QA
+### [Evermind](https://prochat.tools/evermind)
 
-A local-first system for preserving recurring test failures, CI evidence,
-investigation history, causes, fixes and ruled-out hypotheses.
+Human-owned AI memory. Capture · Review · Retrieve.
 
-### Mastermind
+Evermind is free, local-first, and portable. It helps people keep useful memory
+clear, inspectable, and under their own control.
 
-A review-first local workbench for safely applying AI-assisted workflows to
-repositories, documentation and project folders.
+### [Nevermind](https://prochat.tools/nevermind)
 
-## Services
+Nevermind turns memory into working context.
 
-The tools are free to use.
+Nevermind is the paid context layer for bringing relevant memory into the AI
+tools and tasks you already use.
 
-Organizations can engage Steve for implementation, configuration, integration,
-training and QA-focused delivery support.
+### [Mastermind](https://prochat.tools/mastermind)
+
+Mastermind turns vague intentions into controlled execution.
+
+It reasons across authorized project context, delegates bounded work, and
+validates what changed while you stay in control.
+
+Think with your best model. Execute with a cheaper one.
+
+## Direction
+
+Evermind remembers. Nevermind brings context. Mastermind directs the work.
